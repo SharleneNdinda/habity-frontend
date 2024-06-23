@@ -14,6 +14,15 @@
 
 <br />
 
+## 🤎 Welcome Screens
+
+<div>
+  <a href="#">
+    <img src="lib/images/welcome_screen_one.jpg" alt="Logo" width="256" height="556">
+  </a>
+  
+</div>
+
 ## 🤎 Auth Screens
 
 <div>
